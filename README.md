@@ -3,7 +3,7 @@
 Software engineer building agentic tools — Claude Code plugins, GitHub Actions workflows, and self-evolving scaffolds.
 
 Based in Santa Clara. Open to software engineering roles (Bay Area or remote).
-
+ 
 ## What I'm building
 
 - **[tokenman](https://github.com/verkyyi/tokenman)** — a thin control layer for Claude inside GitHub Actions. Explicit trust boundaries via `read_paths` / `write_paths`, self-healing pipeline, feedback learning loop.
