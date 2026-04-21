@@ -27,6 +27,8 @@ TypeScript · Python · Shell · React · GitHub Actions · Claude Code · AWS �
 
 ## Elsewhere
 
-- 🌐 [lianghuiyi.com](https://lianghuiyi.com/)
+- 🏢 [24helpful.com](https://www.24helpful.com/) — company site
+- 🌐 [lianghuiyi.com](https://lianghuiyi.com/) — personal site
+- 💼 [LinkedIn](https://www.linkedin.com/in/lianghuiyi/)
 - 🐦 [@verkyyi](https://twitter.com/verkyyi)
 - 📧 verky.yi@gmail.com
