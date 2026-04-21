@@ -3,7 +3,11 @@
 Software engineer building agentic tools — Claude Code plugins, GitHub Actions workflows, and self-evolving scaffolds.
 
 Based in Santa Clara. Open to software engineering roles (Bay Area or remote).
- 
+
+[![AgentFolio — an agentic portfolio engine](https://raw.githubusercontent.com/verkyyi/agentfolio/main/docs/screenshots/landing.png)](https://lianghuiyi.com/)
+
+*Above: [AgentFolio](https://github.com/verkyyi/agentfolio) — visitors chat with an agent that knows my resume. [Live →](https://lianghuiyi.com/)*
+
 ## What I'm building
 
 - **[tokenman](https://github.com/verkyyi/tokenman)** — a thin control layer for Claude inside GitHub Actions. Explicit trust boundaries via `read_paths` / `write_paths`, self-healing pipeline, feedback learning loop.
